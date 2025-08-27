@@ -40,7 +40,7 @@
 ## 🏆 Competitive Programming
 
 - Active participant on:
-  - [CodeChef]([https://www.codechef.com/users/](https://www.codechef.com/users/raj_veer_145))  
+  - [CodeChef]((https://www.codechef.com/users/raj_veer_145))  
   - [Codeforces](https://codeforces.com/profile/)
 - Enjoys tackling algorithmic problems and sharpening coding skills.
 
