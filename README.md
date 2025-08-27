@@ -11,7 +11,7 @@
 
 - 🎓 **Professional Student:** 2nd year Computer Science Engineering student at IIIT Jabalpur.
 - 🔥 Passionate about solving problems and facing new challenges.
-- 💻 **Competitive Programmer:** Active on [CodeChef]([https://www.codechef.com/users/](https://www.codechef.com/users/raj_veer_145)) & [Codeforces](https://codeforces.com/profile/).
+- 💻 **Competitive Programmer:** Active on [CodeChef](https://www.codechef.com/users/raj_veer_145)) & [Codeforces](https://codeforces.com/profile/).
 - 🌱 Currently learning Data Structures & Algorithms, Database Management, and Data Science.
 - 🌟 **Interests:** Web development, App development, and coding!
 
