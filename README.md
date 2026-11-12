@@ -1,6 +1,6 @@
 # Hi there, I’m Rajakumar! 👋
 
-🚀 **2nd yr CSE @ IIIT Jabalpur**  
+🚀 **3nd yr CSE @ IIIT Jabalpur**  
 🧩 **CP & DSA Enthusiast** | 🌐 **Web + 📱 App Developer**  
 📊 **DBMS | Data Science | Python, C, C++, Java, JS**  
 💡 *Always building & learning!*
